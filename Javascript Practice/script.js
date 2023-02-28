@@ -1,4 +1,4 @@
-//My first attempt
+//My first attempt (not sure why I added an extra variable xD)
 for (let n = 1; n < 11; n++)  {
     let even = n % 2
     if(even == 0)
